@@ -1,0 +1,21 @@
+.login,
+.image {
+    min-height: 100vh
+}
+
+.bg-image {
+    background-image: url('https://drive.google.com/uc?id=15zj1HBr0JIDbX95_Pw5n4_gMFAoSS4C8');
+    background-size: cover;
+    background-position: center center
+}
+
+.bg-login {
+    background-color: black;
+}
+
+::-ms-reveal {
+    border: 1px solid transparent;
+    border-radius: 50%;
+    box-shadow: 0 0 3px currentColor;
+    background-color: red;
+}

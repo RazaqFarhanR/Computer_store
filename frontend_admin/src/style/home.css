@@ -1,0 +1,17 @@
+.bg{
+    background-color: rgb(44, 44, 44);
+    height: auto;
+    min-height: 100vh;
+}
+.sb{
+    min-height: 100vh;
+}
+.card{
+    background-color: rgb(2, 0, 150);
+}
+.isi{
+    color:rgb(255, 0, 0);
+}
+.text-card{
+    font-size: 14px;
+}
