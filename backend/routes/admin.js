@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 //import model
 const models = require('../models/index');
-const admin = models.admin;
+const admin = models.admin;s
 
 //import auth
 const auth = require("../auth")
